@@ -27,3 +27,5 @@ El usuario debera rellenar el formulario para poder hacer los caluculos cuando s
 
 al precionar el boton procesar debera mostrar los datos 
 ![3](https://user-images.githubusercontent.com/77550466/142688921-9987ad97-314b-4c02-8160-d97d02336e0a.png)
+
+Elaborado por moises Coba Turriza
